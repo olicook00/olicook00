@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Oli. I studied chemical engineering at the University of Cambridge and am currently an exchange student at Universität Heidelberg. I am interested in using computational solutions for engineering problems. I am most familiar with MATLAB but I am also learning C++ and have some experience with Python.
